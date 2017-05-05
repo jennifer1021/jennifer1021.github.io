@@ -4,14 +4,16 @@
     box-sizing: border-box;
 }
 
-firstsection {
+.firstsection {
     height: 300px;
     width: 800px;
     background-image: url("websquare1.gif");
+    background-color: #0B516B
 }
 
 .secondsection {
     height: 300px;
     width: 300px;
     background-image: url("websquare1.gif");
+    background-color: #A0BACA
 }
