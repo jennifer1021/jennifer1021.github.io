@@ -1,7 +1,17 @@
-.square1 {
-    background-image: url(websquare1.gif)
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-.square2 {
-    background-image: url(websquare2.gif)
+firstsection {
+    height: 300px;
+    width: 800px;
+    background-image: url("websquare1.gif");
+}
+
+.secondsection {
+    height: 300px;
+    width: 300px;
+    background-image: url("websquare1.gif");
 }
