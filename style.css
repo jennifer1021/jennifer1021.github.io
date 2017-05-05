@@ -7,13 +7,13 @@
 .firstsection {
     height: 300px;
     width: 800px;
-    background-image: url("websquare1.gif");
+    background-image: url(../image/websquare1.gif);
     background-color: #0B516B
 }
 
 .secondsection {
     height: 300px;
-    width: 300px;
-    background-image: url("websquare1.gif");
+    width: 800px;
+    background-image: url(../image/wesquare1.gif);
     background-color: #A0BACA
 }
