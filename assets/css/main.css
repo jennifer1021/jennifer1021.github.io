@@ -1780,7 +1780,7 @@ sup {
 }
 
 blockquote {
-	border-left: solid 4px rgba(255, 255, 255, 0.125);
+	border-left: solid 4px rgba(500, 23, 100, 0.125);
 	font-style: italic;
 	margin: 0 0 2em 0;
 	padding: 0.5em 0 0.5em 2em;
@@ -1789,7 +1789,7 @@ blockquote {
 code {
 	background: rgba(255, 255, 255, 0.025);
 	border-radius: 5px;
-	border: solid 2px rgba(255, 255, 255, 0.125);
+	border: solid 2px rgba(500, 25, 253, 0.125);
 	font-family: "Courier New", monospace;
 	font-size: 0.9em;
 	margin: 0 0.25em;
@@ -1812,7 +1812,7 @@ pre code {
 
 hr {
 	border: 0;
-	border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+	border-bottom: solid 2px rgba(100, 500, 25, 0.125);
 	margin: 2.5em 0;
 }
 
@@ -1887,7 +1887,7 @@ textarea {
 	background: rgba(255, 255, 255, 0.025);
 	border-radius: 5px;
 	border: none;
-	border: solid 2px rgba(255, 255, 255, 0.125);
+	border: solid 2px rgba(900, 25, 244, 0.125);
 	color: inherit;
 	display: block;
 	outline: 0;
@@ -1911,7 +1911,7 @@ input[type="email"]:focus,
 input[type="tel"]:focus,
 select:focus,
 textarea:focus {
-	border-color: #5b6ba6;
+	border-color: #FBDACC;
 }
 
 .select-wrapper {
