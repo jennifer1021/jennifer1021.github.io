@@ -679,8 +679,9 @@ button,
 	.socialmedia {
 		width: 100px;
 		height: 100px;
-		border-radius: 100px;
-		display: -webkit-inline-box
+		border-radius: 50%;
+		overflow: hidden;
+		display: inline-block;
 	}
 	footer {
 		margin: 2em 0 0 0;
