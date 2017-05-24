@@ -1921,7 +1921,8 @@ button.style3:hover,
 	margin: 0;
 	padding: 14em 0 14em 0;
 	cursor: default;
-	background-image: url("../css/images/headphoto.jpg")
+	background-image: url("../css/images/headphoto.jpg");
+	background-attachment: fixed;
 }
 
 #header header {
