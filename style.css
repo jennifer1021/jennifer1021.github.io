@@ -8,7 +8,9 @@
 }
 
 header {
-    color: white padding-top: 200px;
+    height: 400px;
+    color: white;
+    padding-top: 200px;
     padding-left: 500px;
     background-image: url("./image/headphoto.jpg")
 }
