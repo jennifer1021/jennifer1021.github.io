@@ -1915,14 +1915,14 @@ button.style3:hover,
 
 #header {
 	position: relative;
-	color: #fff;
+	color: rgb(28, 128, 156);
 	text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 	text-align: center;
 	margin: 0;
 	padding: 14em 0 14em 0;
 	cursor: default;
 	background-image: url("../css/images/headphoto.jpg");
-	background-attachment: fixed;
+	background-attachment: contain;
 }
 
 #header header {
