@@ -21,10 +21,11 @@ header {
 
 .event {
     color: #fff;
-    width: 20%;
+    width: 18%;
     height: 100px;
-    background-color: #557;
+    background-color: #1B2C3B;
     float: left;
+    text-align: middle;
 }
 
 .section4 {
