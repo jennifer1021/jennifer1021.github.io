@@ -1922,7 +1922,9 @@ button.style3:hover,
 	padding: 14em 0 14em 0;
 	cursor: default;
 	background-image: url("../css/images/headphoto.jpg");
-	background-attachment: contain;
+	background-size: conatin;
+	-webkit-filter: grayscale(20%);
+	filter: grayscale(20%);
 }
 
 #header header {
