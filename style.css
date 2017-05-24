@@ -2,7 +2,13 @@
     box-sizing: border-box;
 }
 
-.section1 {
-    background-image: url("./image/S__55279619.jpg") background-repeat: no-repeat;
-    background-size: contain;
+.section {
+    width: 100%;
+    padding: 0 auto;
+}
+
+header {
+    color: white padding-top: 200px;
+    padding-left: 500px;
+    background-image: url("./image/headphoto.jpg")
 }
