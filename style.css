@@ -15,13 +15,13 @@ header {
 .section2 {
     width: 100%;
     margin: 0 auto;
-    border: 1px solid #203547;
-    background-color: #203547;
+    border: 1px solid rgb(28, 127, 156);
+    background-color: rgb(28, 127, 156);
 }
 
 .event {
     color: #fff;
-    width: 18%;
+    width: 19%;
     height: 100px;
     background-color: #1B2C3B;
     float: left;
@@ -29,8 +29,10 @@ header {
 }
 
 .section4 {
-    background-color: #203547;
+    background-color: rgb(28, 127, 156);
     width: 100px;
     margin: 0 auto;
-    border: 1px solid #203547;
+    border: 1px solid rgb(28, 127, 156);
+    text-align: middle;
+    font-size: 100px;
 }
