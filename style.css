@@ -21,8 +21,15 @@ header {
 
 .event {
     color: #fff;
-    width: 33.3%;
+    width: 20%;
     height: 100px;
     background-color: #203547;
     float: left;
+}
+
+.section4 {
+    background-color: #203547;
+    width: 100px;
+    margin: 0 auto;
+    border: 1px solid #203547;
 }
