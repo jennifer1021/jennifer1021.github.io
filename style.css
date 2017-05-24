@@ -1,1 +1,8 @@
-.section1 {}
+* {
+    box-sizing: border-box;
+}
+
+.section1 {
+    background-image: url("./image/S__55279619.jpg") background-repeat: no-repeat;
+    background-size: cover;
+}
