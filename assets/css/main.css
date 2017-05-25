@@ -1923,8 +1923,8 @@ button.style3:hover,
 	cursor: default;
 	background-image: url("../css/images/headphoto.jpg");
 	background-size: conatin;
-	-webkit-filter: grayscale(20%);
-	filter: grayscale(20%);
+	-webkit-filter: grayscale(30%);
+	filter: grayscale(30%);
 }
 
 #header header {
