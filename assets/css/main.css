@@ -1922,7 +1922,7 @@ button.style3:hover,
 	padding: 14em 0 14em 0;
 	cursor: default;
 	background-image: url("../css/images/of.jpg");
-	background-size: 100% 100%;
+	background-size: 50% 100%;
 	-webkit-filter: grayscale(30%);
 	filter: grayscale(30%);
 }
